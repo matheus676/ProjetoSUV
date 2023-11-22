@@ -1,0 +1,16 @@
+db.sqlite3
+projetosuv/__pycache__/*
+apps/agendamentos/teste/*
+apps/agendamentos/teste.py
+apps/agendamentos/__pycache__/*
+apps/agendamentos/migrations/*
+apps/atendentes/__pycache__/*
+apps/atendentes/migrations/*
+apps/pacientes/__pycache__/*
+apps/pacientes/migrations/*
+apps/postodesaude/__pycache__/*
+apps/postodesaude/migrations/*
+apps/vacinas/__pycache__/*
+apps/vacinas/migrations/*
+apps/historicosdevacinacao/__pycache__/*
+apps/historicosdevacinacao/migrations/*
